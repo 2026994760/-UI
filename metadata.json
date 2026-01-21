@@ -1,0 +1,7 @@
+{
+  "name": "智能办公平台 - 企业级全栈协作套件",
+  "description": "一个高端、全能的 AI 驱动办公平台，涵盖公文生成、会议纪要、知识管理及 BI 分析。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
